@@ -1,0 +1,30 @@
+body{
+    font-size: 1.125rem;
+    color: #707070;
+    margin: 0;
+}
+h1{
+    font-size: 3rem;
+    color: #212614;
+    text-align: center;
+}
+h1 span{
+    color: brown;
+}
+h2{
+    font-size: 1.5rem;
+}
+.container{
+    margin: 0 auto;
+    max-width: 980px;
+    width: 90%;
+}
+
+.img{
+    height: 10rem;
+    width: 100%;
+}
+
+.columns{
+    display: flex;
+}
